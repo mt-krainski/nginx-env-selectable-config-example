@@ -45,6 +45,8 @@ SSL_CERTIFICATE_FILE=server.crt
 ENVIRONMENT=prod
 ```
 
+## Basic Usage
+
 And you can start it like
 
 ```sh
